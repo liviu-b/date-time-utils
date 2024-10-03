@@ -1,5 +1,5 @@
 {
-  "name": "@liviub/date-time-utils",
+  "name": "@lbanc/date-time-utils",
   "version": "1.0.0",
   "description": "A lightweight utility package for formatting, adding days, and calculating differences between dates, designed to simplify date manipulations in JavaScript projects.",
   "main": "src/index.js",
