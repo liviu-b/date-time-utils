@@ -1,14 +1,16 @@
 {
-  "name": "date-time-utils",
+  "name": "@liviub/date-time-utils",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "A lightweight utility package for formatting, adding days, and calculating differences between dates, designed to simplify date manipulations in JavaScript projects.",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": ["date", "time", "utility"],
+  "author": "Liviu B",
+  "license": "MIT",
+  "dependencies": {},
+  
   "devDependencies": {
     "jest": "^29.7.0"
   }
